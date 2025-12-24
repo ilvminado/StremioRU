@@ -1,0 +1,9 @@
+{
+  "id": "community.okru.series",
+  "version": "1.0.0",
+  "name": "OK.ru Series Addon",
+  "description": "Watch series from ok.ru",
+  "resources": ["stream"],
+  "types": ["series"],
+  "catalogs": []
+}
